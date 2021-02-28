@@ -1,1 +1,1 @@
-# reign-rp-changelog
+# Changelog
