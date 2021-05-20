@@ -1,20 +1,10 @@
 {
   "changelog": [
     {
-      "version": "4.2.0",
+      "version": "6.9",
       "updates": [
-        "This is a test Changelog!",
-        "[Taxi]",
-        "[+] New Taximeter and colours.",
-        "[•] Fixed distance bug.",
-        "[•] Fixed Blips.",
-        "[•] Fixed Blip bug on job change or unload.",
-        "[•] Fixed /npc command.",
-        "[Firworks]",
-        "[•] Rewritten firwork system.",
-        "[+] Added new particles.",
-        "[+] Added new objects when placed.",
-        "[+] Spam protection."
+        "[Super Atnaujinimas!]",
+        "[+] Reign Beta Testavimas Atidarytas!"
       ]
     }
   ]
