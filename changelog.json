@@ -1,6 +1,12 @@
 {
   "changelog": [
     {
+      "version": "1.00 2021-08-21",
+      "updates": [
+        "Serverio startas!"
+      ]
+    },
+    {
       "version": "1.01 2021-08-22",
       "updates": [
         "Bug Fixes",
@@ -15,12 +21,6 @@
         "+ Žuvies kainų pakeitimas",
         "+ Plėšiamų namų lokacijų pakeitimas",
         "+ Plėšimui reikalingų pareigūnų kiekio pakeitimas"
-      ]
-    },
-    {
-      "version": "1.00 2021-08-21",
-      "updates": [
-        "Serverio startas!"
       ]
     }
   ]
