@@ -3,7 +3,7 @@
     {
       "version": "1.01 2021-08-22",
       "updates": [
-        "Bug Fixes"
+        "Bug Fixes",
         "+ Automobilio rakteliu / keleivio vietos keitimo klaidos ištaisymas",
         "+ Automobilio užgesinimo įlipant / išlipant klaidos ištaisymas",
         "+ Kurjerio darbo klaidų ištaisymas",
