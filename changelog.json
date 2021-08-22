@@ -1,7 +1,24 @@
 {
   "changelog": [
     {
-      "version": "1.0",
+      "version": "1.01 2021-08-22",
+      "updates": [
+        "Bug Fixes"
+        "+ Automobilio rakteliu / keleivio vietos keitimo klaidos ištaisymas",
+        "+ Automobilio užgesinimo įlipant / išlipant klaidos ištaisymas",
+        "+ Kurjerio darbo klaidų ištaisymas",
+        "+ Vilkikų darbo klaidų ištaisymas",
+        "+ PD MDT klaidų ištaisymas",
+        "+ Darbų užmokesčio atnaujinimai",
+        "+ Padidintas NPC automobilių spawn rate",
+        "+ Interjerų klaidų ištaisymas",
+        "+ Žuvies kainų pakeitimas",
+        "+ Plėšiamų namų lokacijų pakeitimas",
+        "+ Plėšimui reikalingų pareigūnų kiekio pakeitimas"
+      ]
+    },
+    {
+      "version": "1.0 2021-08-21",
       "updates": [
         "Serverio startas!"
       ]
