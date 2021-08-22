@@ -22,6 +22,24 @@
         "+ Plėšiamų namų lokacijų pakeitimas",
         "+ Plėšimui reikalingų pareigūnų kiekio pakeitimas"
       ]
+    },
+    {
+      "version": "1.02 2021-08-22",
+      "updates": [
+        "Bug Fixes",
+        "+ Neberodys visų daiktų gaminime, nuo šiol turėsite keltis tam lygį.",
+        "+ Mašinų handlingo pakeitimai.",
+        "+ Pamažinta pistoleto kulkų kaina.",
+        "+ Sutvarkyta klaida su laivų garažu.",
+        "+ Pamažintas kraujavimas.",
+        "+ Pamažinta mašinų taisymo kaina autoservise.",
+        "+ Pamažintos degalų sąnaudos.",
+        "+ Žvejojimo kainų nerf.",
+        "+ Laikinai išimtas mėsainių kepėjo darbas.",
+        "+ Nuo šiol ligoninėje galėsite pasigydyti jeigu yra mažiau negu 4 medikai.",
+        "+ Pakeista Vilkikų Kompanijos vieta.",
+        "+ Galimai patirsite mažiau crashų."
+      ]
     }
   ]
 }
